@@ -1,0 +1,11 @@
+{
+    "students": [
+            "Kibysh",
+            "Veremeychyk",
+            "Gaman",
+            "Ignatuk",
+            "Bobrov",
+            "Dyachenko",
+            "Lenyk"
+    ]
+}
